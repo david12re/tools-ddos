@@ -14,10 +14,10 @@ $ pkg install python -y
 
 $ pkg install python2 -y
 
-$ git clone https://github.com/manusia365/ppacket
+$ git clone https://github.com/david12re/tools-ddos
 
 $ cd && ls
 
-$ cd ppacket
+$ cd packet
 
-$ python2 ppacket.py
+$ python2 packet.py
